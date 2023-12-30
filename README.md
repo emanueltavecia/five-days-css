@@ -2,7 +2,7 @@
 
 - An initiative from Rocketseat
 - Five CSS challenges to help practice your styling skills
-- Access [here](emanueltavecia.github.io/five-days-css)
+- Access [here](https://emanueltavecia.github.io/five-days-css)
 
 ## Challenges
 
